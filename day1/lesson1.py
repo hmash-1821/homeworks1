@@ -33,7 +33,7 @@ print("me mqvia" + " " + name + " " + surname + " " + "var" + " " + str(age) + "
 
 #second easier way
 
-everything = "me mqvia temo maghlakelidze var 14 wlis simagle 180.0 wona 70 kilogrami vswavlob programirebas."
+everything = "me mqvia temo maghlakelidze var 14 wlis simagle 180.0 wona 70 kilogrami vswavlob programirebas.."
 
 print(everything)
 
